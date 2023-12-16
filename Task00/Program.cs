@@ -10,6 +10,7 @@ namespace Task00
     {
         static void Main(string[] args)
         {
+            Csssssssss
 
             Console.WriteLine("First time on Gethub");
             Console.WriteLine("secondtime");
