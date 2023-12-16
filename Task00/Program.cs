@@ -14,7 +14,8 @@ namespace Task00
             Console.WriteLine("122");
             Console.WriteLine("122");
             Console.WriteLine("122");
-            Console.WriteLine("")
+            Console.WriteLine("123");
+            Console.WriteLine("122");
         }
     }
 }
