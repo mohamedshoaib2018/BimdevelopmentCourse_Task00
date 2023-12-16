@@ -40,6 +40,14 @@ namespace Task00
             Console.ReadKey();
             
             
+            Console.WriteLine("122");
+            Console.WriteLine("122");
+            Console.WriteLine("122");
+            Console.WriteLine("122");
+            Console.WriteLine("123");
+            Console.WriteLine("122");
+            Console.WriteLine("final");
+            Console.WriteLine("Yahoo");
 
         }
     }
