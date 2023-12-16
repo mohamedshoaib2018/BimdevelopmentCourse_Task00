@@ -11,6 +11,7 @@ namespace Task00
         static void Main(string[] args)
         {
             Console.WriteLine("122");
+            Console.WriteLine("122");
         }
     }
 }
