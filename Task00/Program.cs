@@ -40,6 +40,7 @@ namespace Task00
             Console.ReadKey();
             
             
+          
 
         }
     }
