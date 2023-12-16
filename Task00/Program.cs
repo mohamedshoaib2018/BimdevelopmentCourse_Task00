@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -12,6 +13,12 @@ namespace Task00
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Clear();
+            SoundPlayer player01 = new SoundPlayer(@"I:\C#\API KAYAN\Lecture 3\Biano.wav");
+            player01.PlayLooping();
+            Thread.Sleep(2000);
             string FirstName = "Moohamed";
             string SecondName = "Shoaib";
             string FullName;
